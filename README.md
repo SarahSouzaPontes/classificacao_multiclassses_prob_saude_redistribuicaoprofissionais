@@ -1,0 +1,2 @@
+# classificacao_multiclassses_prob_saude_redistribuicaoprofissionais
+Classifição Multiclasses reconhecer quem é ou não doente ou suspeito.
